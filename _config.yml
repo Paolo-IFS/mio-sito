@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Paolo Bailo"
   avatar           : "/assets/bio-photo.png"
-  bio              : ""
+  bio              : "I am a psycotherapist (EMDR, IFS, Sensory motor psycotherapy)"
   location         : "Novara, Italy"
-  email            :
+  email            : "paolo@bailo.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
