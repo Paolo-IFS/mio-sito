@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Paolo Bailo"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/bio-photo.png"
   bio              : ""
   location         : "Novara, Italy"
   email            :
