@@ -1,8 +1,8 @@
 ---
-title: "Welcome to my personal website"
-layout: home
+title: "Home"
+layout: single  # or "splash" if you want a full-width layout
 permalink: /
-author_profile: false
+author_profile: true
 ---
 
 I am Paolo Bailo and I am a psycotherapist. I live in Novara, Italy.
