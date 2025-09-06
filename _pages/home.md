@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-I am Paolo Bailo and I am a psycotherapist. I live in Novara, Italy.
+I am Paolo Bailo and I am a psychotherapist. I live in Novara, Italy.
 
-Email consulations: paolo@bailo.org
+Email consultations: paolo@bailo.org
 
 ## Credentials
 
@@ -16,11 +16,11 @@ Email consulations: paolo@bailo.org
 
 ## Certifications
 
-- [Psycoanalyst](https://www.centrotorinesedipsicoanalisi.it/chi-siamo/)
+- [Psychoanalyst](https://www.centrotorinesedipsicoanalisi.it/chi-siamo/)
 - [EMDR Certified Therapist](https://emdr.it/terapeuti/piemonte/provincia/novara/)
-- [Sendorymotor Certified Therapist](https://sensorimotoritalia.it/terapeuti/paolo-bailo/)
+- [Sensorimotor Certified Therapist](https://sensorimotoritalia.it/terapeuti/paolo-bailo/)
 - [Internal Family System Certified Therapist](https://ifs-institute.com/practitioners/all/96692)
 
 ## Focus
-- Psycotraumatology
+- Psychotraumatology
 - Adults, Adolescents
