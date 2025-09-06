@@ -1,4 +1,9 @@
-# Welcome to my personal website
+---
+title: "Welcome to my personal website"
+layout: home
+permalink: /
+author_profile: false
+---
 
 I am Paolo Bailo and I am a psycotherapist. I live in Novara, Italy.
 
